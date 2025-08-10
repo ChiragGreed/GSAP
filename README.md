@@ -51,7 +51,7 @@ A small practice website combining multiple GSAP effects into one layout.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gsap-animations.git
+   git clone https://github.com/ChiragGreed/GSAP.git
    
 2. Open the folder of any project you want to view.
 
