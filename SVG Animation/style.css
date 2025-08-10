@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html,body{
+    background-color: rgb(20, 20, 20);
+    height:100%;
+    width:100%;
+    overflow-x: hidden;
+}
+
+#string{
+    position: absolute;
+    top:35%;
+    height:200px;
+    width:100%;
+}
+
+svg{
+    filter:drop-shadow(0 0 20px white);
+}
