@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+html,body{
+    background-color: rgb(224, 224, 224);
+}
+
+#something1,
+#something2,
+#something3{
+    height:400px;
+    width:400px;
+    border-radius: 200px;
+    background-color: rgb(253, 8, 253);
+}
+#something2{
+    background-color: rgb(93, 4, 177);
+}
+#something3{
+    background-color: rgb(247, 73, 46);
+}
