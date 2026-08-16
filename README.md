@@ -1,73 +1,87 @@
-# 🎨 GSAP Animation Practice Collection
+# 🎨 Interactive GSAP Animation Showcase
 
-A collection of mini projects created while practicing [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/).  
-Each folder contains an independent animations/Effects with its own HTML, CSS, and JavaScript files.
+An interactive collection of frontend animations and UI experiments built with **GSAP (GreenSock Animation Platform)**.
+
+This repository explores different animation techniques including SVG animations, scroll-driven interactions, custom cursors, marquee effects, text animations, and a complete animated landing page.
+
+Each project is built independently using HTML, CSS, JavaScript, and GSAP.
 
 ---
 
-## 📂 Project List
+## ✨ Projects & Animations
 
 ### 1️⃣ SVG Animation
-Animating SVG paths and shapes with GSAP for creating a string like smooth, scalable vector effect.   
+
+Animated SVG paths and shapes using GSAP to create smooth, scalable vector effects.
+
 ![SVG Animation Demo](gifs/SVG%20Animation.gif)
 
 ---
 
-### 2️⃣ Side-Scrolling Animation
-A horizontal scrolling web-page animation triggered with GSAP's `ScrollTrigger`.  
-![Side Scrolling Text Demo](gifs/SideScrooling%20Text%20Animation.gif)
+### 2️⃣ Horizontal Scroll Animation
+
+A horizontal scrolling experience powered by GSAP's `ScrollTrigger`, creating a dynamic scroll-driven layout.
+
+![Horizontal Scroll Demo](gifs/SideScrooling%20Text%20Animation.gif)
 
 ---
 
 ### 3️⃣ Custom Cursor Animation
-A custom animated cursor that responds to mouse movement, and objects using GSAP.  
+
+An interactive custom cursor that responds dynamically to mouse movement and on-page elements.
+
 ![Custom Cursor Demo](gifs/Custom%20cursor%20Animation.gif)
 
 ---
 
-### 4️⃣ Scroll-Trigger Text Animation
-A Marquee effect that responds to scroll direction using `ScrollTrigger`.  
+### 4️⃣ Scroll-Triggered Marquee
+
+A marquee effect that dynamically responds to the user's scroll direction using `ScrollTrigger`.
+
 ![ScrollTrigger Text Demo](gifs/ScroolTrigger%20Text%20Animation.gif)
 
 ---
 
 ### 5️⃣ Text Animation
-Creative text effect using GSAP timelines and staggered animations.  
+
+Creative text transitions using GSAP timelines, staggered animations, and coordinated motion.
+
 ![Text Animation Demo](gifs/Text%20Animation.gif)
 
 ---
 
-### 6️⃣ GSAP Practice Website
-A small practice website combining multiple GSAP effects into one layout.  
-![GSAP Practice Website Demo](gifs/GSAP%20Practice%20website.gif)
+### 6️⃣ Animated Landing Page
+
+A complete frontend landing page combining multiple GSAP techniques into a single interactive experience.
+
+![Animated Website Demo](gifs/GSAP%20Practice%20website.gif)
 
 ---
 
-*(More animations will be added soon…)*
+## 🛠️ Tech Stack
+
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **GSAP**
+* **GSAP ScrollTrigger**
 
 ---
 
-## 🚀 How to Run
+## 🚀 Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ChiragGreed/GSAP.git
-   
-2. Open the folder of any project you want to view.
+Clone the repository:
 
-3. Open index.html in your browser.
-## Tech Used
+```bash
+git clone https://github.com/ChiragGreed/GSAP.git
+```
 
-• GSAP for animations
+Open any project folder and launch its `index.html` file in your browser.
 
-• HTML5 / CSS3 / JavaScript
+---
 
-• GSAP Plugins like ScrollTrigger
+## 📌 About
 
-## 📌 NOTES
+This project was built to explore and implement modern frontend animation techniques with GSAP, with a focus on creating **smooth, interactive, and visually engaging web experiences**.
 
-• Each project is self-contained — you can copy and use them individually.
-
-• Designed for practice and experimentation, not production-ready.
-
-• GIFs are stored in the media folder for easy preview in this README.
+Each animation is independently structured, making the examples easy to understand, modify, and reuse.
